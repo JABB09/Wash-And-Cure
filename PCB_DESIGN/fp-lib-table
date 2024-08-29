@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "A4988_motorCtrl")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/A4988_motorCtrl/A4988_motorCtrl.pretty")(options "")(descr ""))
+)
