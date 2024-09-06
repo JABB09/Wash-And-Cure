@@ -12624,7 +12624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TERMINAL_DC:GCT_DCJ200-10-A-XX-K_REVA"
 			(at 63.5 291.846 0)
 			(effects
 				(font
