@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "A4988SETTR-T")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/A4988_motorCtrl/A4988SETTR-T.kicad_sym")(options "")(descr ""))
   (lib (name "DRV8825PWP")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/DRV8825/DRV8825PWP.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC14PWR")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/SN74HC14PWR/SN74HC14PWR.kicad_sym")(options "")(descr ""))
 )

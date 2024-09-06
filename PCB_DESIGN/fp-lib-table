@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "A4988_motorCtrl")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/A4988_motorCtrl/A4988_motorCtrl.pretty")(options "")(descr ""))
   (lib (name "DRV8825")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/DRV8825/DRV8825.pretty")(options "")(descr ""))
+  (lib (name "ATMEGA328PB-AU")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/ATMEGA328PB-AU/ATMEGA328PB-AU.pretty")(options "")(descr ""))
+  (lib (name "INDUCTOR_47uH")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/INDUCTOR_47uH/INDUCTOR_47uH.pretty")(options "")(descr ""))
+  (lib (name "SN74HC14PWR")(type "KiCad")(uri "${KIPRJMOD}/Kicad_Library/MODULES/SN74HC14PWR/SN74HC14PWR.pretty")(options "")(descr ""))
 )
